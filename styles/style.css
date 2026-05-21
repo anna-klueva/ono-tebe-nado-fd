@@ -227,11 +227,7 @@
   position: relative;
   z-index: 1;
 }
-.card__title,
-.card__text {
-  position: relative;
-  z-index: 1;
-}
+
 .lots__look-more-link {
   display: block;
   margin-top: 35px;

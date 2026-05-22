@@ -18,9 +18,11 @@
   gap: 32px;
   list-style: circle;
 }
+
 .header__links-list-item:first-of-type {
-  list-style: none;         
+  list-style: none;
 }
+
 .header__link {
   text-decoration: underline;
 }
